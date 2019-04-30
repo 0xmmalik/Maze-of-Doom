@@ -16,7 +16,7 @@ Use the arrow keys and Q, W, A, S keys to move (Q, W, A, and S are for their res
 - Version 1.0 was released on April 29th, 2019 and contains the first 5 levels of the game with a maximum possible score of 6000.
 
 ## Preview Image
-**Coming soon!**
+![Preview Image]()
 
 ## System Requirements
 For many of my other games, Windows was not a requirement, but for this game, it *is*!
