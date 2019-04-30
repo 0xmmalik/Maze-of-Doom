@@ -9,6 +9,8 @@
 - [Module Requirements](#module-requirements)
 - [File Requirements](#file-requirements)
 
+[REPORT BUG](https://forms.gle/cPBmojKbcK9bVbfa7)
+
 ## Instructions
 Use the arrow keys and Q, W, A, S keys to move (Q, W, A, and S are for their respective diagonals). Get the key (`&`) to be able to climb up a floor using the transporters (`O`) and collect money (`$`) along the way to boost your score. Be sure to avoid lava (`%`) because it will reduce your score! Get to the top as fast as you can!
 
