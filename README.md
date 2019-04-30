@@ -18,6 +18,8 @@ Use the arrow keys and Q, W, A, S keys to move (Q, W, A, and S are for their res
 ## Preview Image
 ![Preview Image](https://github.com/0xmmalik/Maze-of-Doom/blob/master/mazeofdoom_previewimage.JPG)
 
+In this image, you can see the player (`@`) is about to go get the coin (`$`) and the key (`&`), after that.
+
 ## System Requirements
 For many of my other games, Windows was not a requirement, but for this game, it *is*!
 
