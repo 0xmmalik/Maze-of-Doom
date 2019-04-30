@@ -21,6 +21,8 @@ Use the arrow keys and Q, W, A, S keys to move (Q, W, A, and S are for their res
 ## Coming Up
 As of Version 1.0, only 5 levels were released. The new version will contain 10 and the starting place for the player will not be the same every time. Expect some larger levels (larger than just 10x10 grids) to be previewed in the upcoming version. Expect this verion on May 2nd, 2019!
 
+As of April 30th, 2019, the plan for the tallest spire is for it to be on ***Floor 45***, though it will most likely change before that final version is released.
+
 ## Preview Image
 ![Preview Image](mazeofdoom_previewimage.JPG)
 
