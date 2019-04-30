@@ -2,12 +2,12 @@
 #### Welcome, young adventurer, to the Maze of Doom. The dangers in your path are far greater than you can imagine. Reach the tallest spire as fast as you can, lest... we do not speak of the consequences here.
 
 ## Table of Contents
-- (Instructions)[#instructions]
-- Version History
-- Preview Image
-- System Requirements
-- Module Requirements
-- File Requirements
+- [Instructions](#instructions)
+- [Version History](#version-history)
+- [Preview Image](#preview-image)
+- [System Requirements](#system-requirements)
+- [Module Requirements](#module-requirements)
+- [File Requirements](#file-requirements)
 
 ## Instructions
 Use the arrow keys and Q, W, A, S keys to move (Q, W, A, and S are for their respective diagonals). Get the key (`&`) to be able to climb up a floor using the transporters (`O`) and collect money (`$`) along the way to boost your score. Be sure to avoid lava (`%`) because it will reduce your score! Get to the top as fast as you can!
