@@ -18,7 +18,9 @@ Use the arrow keys and Q, W, A, S keys to move (Q, W, A, and S are for their res
 ## Preview Image
 ![Preview Image](https://github.com/0xmmalik/Maze-of-Doom/blob/master/mazeofdoom_previewimage.JPG)
 
-In this image, you can see the player (`@`) is about to go get the coin (`$`) and the key (`&`), after that.
+In this image, you can see the player (`@`) is about to go get the coin (`$`) and the key (`&`), after that. 
+
+**Note** that the font depends on the font of the terminal, and a font with the width being the same as the height is recommended, but not necessary. For the best experience, use fonts that have the same height as width!
 
 ## System Requirements
 For many of my other games, Windows was not a requirement, but for this game, it *is*!
