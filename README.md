@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Instructions](#instructions)
 - [Version History](#version-history)
+- [Coming Up](#coming-up)
 - [Preview Image](#preview-image)
 - [System Requirements](#system-requirements)
 - [Module Requirements](#module-requirements)
@@ -16,6 +17,9 @@ Use the arrow keys and Q, W, A, S keys to move (Q, W, A, and S are for their res
 
 ## Version History
 - Version 1.0 was released on April 29th, 2019 and contains the first 5 levels of the game with a maximum possible score of 6000.
+
+## Coming Up
+As of Version 1.0, only 5 levels were released. The new version will contain 10 and the starting place for the player will not be the same every time. Expect some larger levels (larger than just 10x10 grids) to be previewed in the upcoming version. Expect this verion on May 2nd, 2019!
 
 ## Preview Image
 ![Preview Image](mazeofdoom_previewimage.JPG)
