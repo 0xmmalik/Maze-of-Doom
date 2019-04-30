@@ -30,4 +30,4 @@ For many of my other games, Windows was not a requirement, but for this game, it
 - Pygame (any version)
 
 ## File Requirements
-Only the `.py` file is required! There are no other files!
+The `.py` file is the only file!
