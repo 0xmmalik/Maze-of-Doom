@@ -40,8 +40,7 @@ For many of my other games, Windows was not a requirement, but for this game, it
 **You need a faster computer**, otherwise, you will face lag and moments where the screen blinks every time you move.
 
 ## Module Requirements
-- Python 3.4+
-- Pygame (any version)
+- Python 3.4+ (Completely Console-Based)
 
 ## File Requirements
 The `.py` file is the only file!
