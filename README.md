@@ -16,10 +16,11 @@
 Use the arrow keys and Q, W, A, S keys to move (Q, W, A, and S are for their respective diagonals). Get the key (`&`) to be able to climb up a floor using the transporters (`O`) and collect money (`$`) along the way to boost your score. Be sure to avoid lava (`%`) because it will reduce your score! Get to the top as fast as you can!
 
 ## Version History
-- Version 1.0 was released on April 29th, 2019 and contains the first 5 levels of the game with a maximum possible score of 6000.
+- Release 1.0 was released on April 29th, 2019 and contains the first 5 levels of the game with a maximum possible score of 6000.
+- Release 2.0 was released on May 3rd, 2019 and contains the first 10 levels of the game with a maximum possible score of 12000.
 
 ## Coming Up
-As of Version 1.0, only 5 levels were released. The new version will contain 10 and the starting place for the player will not be the same every time. Expect some larger levels (larger than just 10x10 grids) to be previewed in the upcoming version. Expect this verion on May 2nd, 2019!
+Since the new update came a day later than anticipated, we had to rush to finish the last two levels and did not expand the board, yet. Release 3.0 (the next one) should be expected by May 10th, 2019 and *will* contain larger boards than 10 x 10.
 
 As of April 30th, 2019, the plan for the tallest spire is for it to be on ***Floor 45***, though it will most likely change before that final version is released.
 
