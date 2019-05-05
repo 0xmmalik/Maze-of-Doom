@@ -20,9 +20,9 @@ Use the arrow keys and Q, W, A, S keys to move (Q, W, A, and S are for their res
 - Release 2.0 was released on May 3rd, 2019 and contains the first 10 levels of the game with a maximum possible score of 12000.
 
 ## Coming Up
-Since the new update came a day later than anticipated, we had to rush to finish the last two levels and did not expand the board, yet. Release 3.0 (the next one) should be expected by May 10th, 2019 and *will* contain larger boards than 10 x 10.
+Since the new update came a day later than anticipated, we had to rush to finish the last two levels and did not expand the board, yet. Release 3.0 (the next one) should be expected by May 10th, 2019 and *will* contain larger boards than 10 x 10. Expect this version to be release around **May 10th, 2019.**
 
-As of April 30th, 2019, the plan for the tallest spire is for it to be on ***Floor 45***, though it will most likely change before that final version is released.
+As of May 4th, 2019, the plan for the tallest spire is for it to be on ***Floor 50***, though it will most likely change before that final version is released.
 
 ## Preview Image
 ![Preview Image](mazeofdoom_previewimage.JPG)
