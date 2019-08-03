@@ -53,7 +53,7 @@ system("cls")
 
 starttime = time()
 
-for i in range(len(LEVELS)):
+for i in enumerate(LEVELS):
     key = False
     leveladv = False
     player_pos = ST_P[i]
