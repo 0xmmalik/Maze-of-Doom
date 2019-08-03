@@ -44,8 +44,10 @@ coins = 0
 
 system("cls")
 
-try: input(logothing)
-except: pass
+try:
+  input(logothing)
+except:
+  pass
 
 system("cls")
 
@@ -66,10 +68,14 @@ for i in range(len(LEVELS)):
             keypress = True
             LEVELS[i] = add_dot(LEVELS[i], player_pos)
             player_pos -= 11
-            if LEVELS[i][player_pos] == "&": key = True
-            if LEVELS[i][player_pos] == "$": coins += 3
-            if LEVELS[i][player_pos] == "%": coins -= 5
-            if LEVELS[i][player_pos] == "O": leveladv = True
+            if LEVELS[i][player_pos] == "&":
+              key = True
+            if LEVELS[i][player_pos] == "$":
+              coins += 3
+            if LEVELS[i][player_pos] == "%":
+              coins -= 5
+            if LEVELS[i][player_pos] == "O":
+              leveladv = True
             LEVELS[i] = add_player(LEVELS[i])
             print("Floor #" + str(i + 1) + " | $" + str(coins))
             print(LEVELS[i])
@@ -80,10 +86,14 @@ for i in range(len(LEVELS)):
             keypress = True
             LEVELS[i] = add_dot(LEVELS[i], player_pos)
             player_pos += 1
-            if LEVELS[i][player_pos] == "&": key = True
-            if LEVELS[i][player_pos] == "$": coins += 3
-            if LEVELS[i][player_pos] == "%": coins -= 5
-            if LEVELS[i][player_pos] == "O": leveladv = True
+            if LEVELS[i][player_pos] == "&":
+              key = True
+            if LEVELS[i][player_pos] == "$":
+              coins += 3
+            if LEVELS[i][player_pos] == "%":
+              coins -= 5
+            if LEVELS[i][player_pos] == "O":
+              leveladv = True
             LEVELS[i] = add_player(LEVELS[i])
             print("Floor #" + str(i + 1) + " | $" + str(coins))
             print(LEVELS[i])
@@ -94,10 +104,14 @@ for i in range(len(LEVELS)):
             keypress = True
             LEVELS[i] = add_dot(LEVELS[i], player_pos)
             player_pos -= 1
-            if LEVELS[i][player_pos] == "&": key = True
-            if LEVELS[i][player_pos] == "$": coins += 3
-            if LEVELS[i][player_pos] == "%": coins -= 5
-            if LEVELS[i][player_pos] == "O": leveladv = True
+            if LEVELS[i][player_pos] == "&":
+              key = True
+            if LEVELS[i][player_pos] == "$": 
+             coins += 3
+            if LEVELS[i][player_pos] == "%":
+              coins -= 5
+            if LEVELS[i][player_pos] == "O":
+              leveladv = True
             LEVELS[i] = add_player(LEVELS[i])
             print("Floor #" + str(i + 1) + " | $" + str(coins))
             print(LEVELS[i])
@@ -108,10 +122,14 @@ for i in range(len(LEVELS)):
             keypress = True
             LEVELS[i] = add_dot(LEVELS[i], player_pos)
             player_pos += 11
-            if LEVELS[i][player_pos] == "&": key = True
-            if LEVELS[i][player_pos] == "$": coins += 3
-            if LEVELS[i][player_pos] == "%": coins -= 5
-            if LEVELS[i][player_pos] == "O": leveladv = True
+            if LEVELS[i][player_pos] == "&":
+              key = True
+            if LEVELS[i][player_pos] == "$":
+              coins += 3
+            if LEVELS[i][player_pos] == "%":
+              coins -= 5
+            if LEVELS[i][player_pos] == "O":
+              leveladv = True
             LEVELS[i] = add_player(LEVELS[i])
             print("Floor #" + str(i + 1) + " | $" + str(coins))
             print(LEVELS[i])
@@ -122,10 +140,14 @@ for i in range(len(LEVELS)):
             keypress = True
             LEVELS[i] = add_dot(LEVELS[i], player_pos)
             player_pos += 12
-            if LEVELS[i][player_pos] == "&": key = True
-            if LEVELS[i][player_pos] == "$": coins += 3
-            if LEVELS[i][player_pos] == "%": coins -= 5
-            if LEVELS[i][player_pos] == "O": leveladv = True
+            if LEVELS[i][player_pos] == "&":
+              key = True
+            if LEVELS[i][player_pos] == "$":
+              coins += 3
+            if LEVELS[i][player_pos] == "%":
+              coins -= 5
+            if LEVELS[i][player_pos] == "O":
+              leveladv = True
             LEVELS[i] = add_player(LEVELS[i])
             print("Floor #" + str(i + 1) + " | $" + str(coins))
             print(LEVELS[i])
@@ -136,10 +158,14 @@ for i in range(len(LEVELS)):
             keypress = True
             LEVELS[i] = add_dot(LEVELS[i], player_pos)
             player_pos -= 12
-            if LEVELS[i][player_pos] == "&": key = True
-            if LEVELS[i][player_pos] == "$": coins += 3
-            if LEVELS[i][player_pos] == "%": coins -= 5
-            if LEVELS[i][player_pos] == "O": leveladv = True
+            if LEVELS[i][player_pos] == "&":
+              key = True
+            if LEVELS[i][player_pos] == "$":
+             coins += 3
+            if LEVELS[i][player_pos] == "%":
+              coins -= 5
+            if LEVELS[i][player_pos] == "O":
+              leveladv = True
             LEVELS[i] = add_player(LEVELS[i])
             print("Floor #" + str(i + 1) + " | $" + str(coins))
             print(LEVELS[i])
@@ -150,10 +176,14 @@ for i in range(len(LEVELS)):
             keypress = True
             LEVELS[i] = add_dot(LEVELS[i], player_pos)
             player_pos += 10
-            if LEVELS[i][player_pos] == "&": key = True
-            if LEVELS[i][player_pos] == "$": coins += 3
-            if LEVELS[i][player_pos] == "%": coins -= 5
-            if LEVELS[i][player_pos] == "O": leveladv = True
+            if LEVELS[i][player_pos] == "&":
+              key = True
+            if LEVELS[i][player_pos] == "$":
+              coins += 3
+            if LEVELS[i][player_pos] == "%":
+              coins -= 5
+            if LEVELS[i][player_pos] == "O":
+              leveladv = True
             LEVELS[i] = add_player(LEVELS[i])
             print("Floor #" + str(i + 1) + " | $" + str(coins))
             print(LEVELS[i])
@@ -164,10 +194,14 @@ for i in range(len(LEVELS)):
             keypress = True
             LEVELS[i] = add_dot(LEVELS[i], player_pos)
             player_pos -= 10
-            if LEVELS[i][player_pos] == "&": key = True
-            if LEVELS[i][player_pos] == "$": coins += 3
-            if LEVELS[i][player_pos] == "%": coins -= 5
-            if LEVELS[i][player_pos] == "O": leveladv = True
+            if LEVELS[i][player_pos] == "&":
+              key = True
+            if LEVELS[i][player_pos] == "$":
+              coins += 3
+            if LEVELS[i][player_pos] == "%":
+              coins -= 5
+            if LEVELS[i][player_pos] == "O":
+              leveladv = True
             LEVELS[i] = add_player(LEVELS[i])
             print("Floor #" + str(i + 1) + " | $" + str(coins))
             print(LEVELS[i])
