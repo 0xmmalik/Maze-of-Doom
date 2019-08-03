@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/0xmmalik/maze-of-doom/badge)](https://www.codefactor.io/repository/github/0xmmalik/maze-of-doom)
+
 # Maze of Doom
 #### Welcome, young adventurer, to the Maze of Doom. The dangers in your path are far greater than you can imagine. Reach the tallest spire as fast as you can, lest... we do not speak of the consequences here.
 
